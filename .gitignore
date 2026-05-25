@@ -1,0 +1,11 @@
+# Claude Code internals
+.claude/
+.agents/
+skills-lock.json
+
+# Uploads de usuários (fotos de livros, etc.)
+assets/img/livros/
+
+# Logs e temporários
+*.log
+*.tmp
